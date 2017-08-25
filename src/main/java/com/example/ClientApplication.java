@@ -1,4 +1,4 @@
-package com.example.client;
+package com.example;
 
 import com.netflix.appinfo.InstanceInfo;
 import com.netflix.discovery.EurekaClient;
